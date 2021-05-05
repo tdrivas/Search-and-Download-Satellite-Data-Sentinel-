@@ -3,6 +3,7 @@ This project searches for Sentinel metadata in several sources, saves them in a 
 	
 ## Technologies
 Project is created with:
+https://img.shields.io/static/v1?label="one"&message="Python: 2.7"&color="red"
 * Python: 2.7
 * Postgresql/PostGIS
 * Django: 1.10
